@@ -1,5 +1,5 @@
 # UsefulMatlabCode
-A few useful econometric routines I have written.
+A few useful econometric routines I have written. BSD license.
 
 ## OLS.m
 Simple OLS for MATLAB. Matrices in, matrices out. Slope estimates, standard errors, t-tests, R2, etc. with matrix inputs. 
